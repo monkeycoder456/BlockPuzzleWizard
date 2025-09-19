@@ -1,0 +1,7 @@
+small
+3_tall,1
+bad_apple,2
+small_T,3
+horse,4
+small_back_L,5
+small_square,6

@@ -1,0 +1,10 @@
+medium
+horse,1
+small_Z,6
+comma,4
+bad_apple,2
+small_S,5
+apple,8
+forw_L,3
+comma,7
+smiley,O

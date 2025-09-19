@@ -1,0 +1,7 @@
+small
+5_tall,1
+apple,2
+small_square,3
+small_back_L,4
+small_T,5
+comma,6

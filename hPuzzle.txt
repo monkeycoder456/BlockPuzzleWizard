@@ -1,0 +1,13 @@
+large
+5_tall,1
+horse,2
+bad_apple,3
+small_S,4
+comma,5
+3_tall,6
+apple,7
+small_L,8
+forw_L,9
+bad_apple,A
+small_square,B
+smiley,O
