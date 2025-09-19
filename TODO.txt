@@ -1,0 +1,2 @@
+create main that will search for puzzle TXTs
+create GUI
