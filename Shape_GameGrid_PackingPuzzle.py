@@ -244,6 +244,7 @@ class Packing_Puzzle():
     
     def place_arbitrary_block(self, block : Shape, where : tuple) -> bool:
         """allows for any sort of block to be placed, if owned or not"""
+        pass
     
     def remove_block(self, index : int):
         """removes a block from the game grid"""
@@ -269,7 +270,8 @@ class Packing_Puzzle():
         return copy.deepcopy(self)
 
 class Packing_Puzzle_data():
-    """a glorified array to make life easier"""
+    """a glorified array to make life easier\n
+    creates itself from txt"""
 
     def __init__(data, size : int, shapes : list):
         data.size = size

@@ -1,2 +1,5 @@
 create main that will search for puzzle TXTs
 create GUI
+    create main window
+    create 3 sub windows (puzzle, wizard, options)
+    custom canvas class
